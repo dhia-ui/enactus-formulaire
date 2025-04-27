@@ -1,0 +1,8 @@
+.date-of-birth-container {
+    display: flex;
+    gap: 10px;
+}
+
+.date-of-birth-container select {
+    flex: 1;
+}
